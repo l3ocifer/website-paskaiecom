@@ -1,0 +1,13 @@
+    # React
+    paskaiecom/node_modules/
+    paskaiecom/build/
+    *.log
+
+    # Terraform
+    **/.terraform/
+    *.tfstate
+    *.tfstate.backup
+    *.tfvars
+
+    # Misc
+    *.DS_Store
